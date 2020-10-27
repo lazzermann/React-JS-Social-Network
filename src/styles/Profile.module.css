@@ -1,0 +1,10 @@
+.appContent{
+    grid-area: content;
+    margin-left: -.15em;
+    margin-top: -.15em;
+    background-color: #7fdbff;
+}
+
+.item {
+    color: #000000;
+}
